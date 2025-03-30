@@ -1,0 +1,266 @@
+Change Component Footprint: Designator=W1_U_rele1 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele2 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele3 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele4 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele5 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele6 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele7 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele8 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele9 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele10 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=W1_U_rele11 Old Footprint=691321100002 New Footprint=691321100002
+Change Component Footprint: Designator=AS?_U_SensorADC1 Old Footprint=691321100003 New Footprint=691321100003
+Change Component Footprint: Designator=AS?_U_SensorADC2 Old Footprint=691321100003 New Footprint=691321100003
+Change Component Footprint: Designator=AS?_U_SensorADC3 Old Footprint=691321100003 New Footprint=691321100003
+Change Component Footprint: Designator=AS?_U_SensorADC4 Old Footprint=691321100003 New Footprint=691321100003
+Change Component Footprint: Designator=CAN1 Old Footprint=691321100003 New Footprint=691321100003
+Added Component: Designator=C1(C AlElko 6x__ R2.5)
+Add component (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C2(C AlElko 6x__ R2.5)
+Add component (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C3(C0805)
+Add component (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C4(C0805)
+Add component (AddParameter): Name = "Value"; Value = "1uf"; VariantName = "[No Variations]"
+Added Component: Designator=C6(C AlElko R2.54 FI5)
+Added Component: Designator=C7(C AlElko R2.54 FI5)
+Added Component: Designator=C15(C0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C16(C0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C17(C0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C18(C0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_SensorADC1(C0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_SensorADC2(C0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_SensorADC3(C0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Added Component: Designator=C?_U_SensorADC4(C0805)
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found WL-SMCW_0603_150060xx75000
+Added Component: Designator=napajalnik1(691321100002)
+Add component (AddParameter): Name = "Color"; Value = "Green"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "10A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "7.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "3.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NexarPartId"; Value = "18818340"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Levels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Positions Per Level"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Box"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "3.5052mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "300V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "8.1mm"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Added Component: Designator=R1(R0805)
+Add component (AddParameter): Name = "Value"; Value = "440"; VariantName = "[No Variations]"
+Added Component: Designator=R2(R0805)
+Add component (AddParameter): Name = "Value"; Value = "220"; VariantName = "[No Variations]"
+Added Component: Designator=R3(R0805)
+Add component (AddParameter): Name = "Value"; Value = "100k"; VariantName = "[No Variations]"
+Added Component: Designator=U2(TO-263_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000455.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1/11/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.4 mm Lead Span (D2PAK)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DIL28-3
+Added Component: Designator=VR1(TO-263_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/internet/com/TECHNICAL_RESOURCES/TECHNICAL_LITERATURE/DATASHEET/CD00000444.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "16/11/2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.4 mm Lead Span (D2PAK)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-263"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "2011"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found XTAL
+Added Component: Designator=zenner1(FAIR-SOD-123-2_V)
+Add component (AddParameter): Name = "Category"; Value = "Zenerdiode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "1diode"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "https://www.fairchildsemi.com/datasheets/MM/MMSZ5226B.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.6, 10/2015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Enclosure"; Value = "SOD123"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Forward voltage reference"; Value = "10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "21O"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance reference"; Value = "7mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manuf. Code"; Value = "FSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "FairchildSemiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. operating temperature"; Value = "+150°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max. power"; Value = "500mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting type"; Value = "Surface-mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating temperature (min.)"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 2.7 x 1.6 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "SOD-123-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Residual reverse leakage current"; Value = "0.1µA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "MMSZ5248B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "UF"; Value = "900mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Uz (max.)"; Value = "18.9V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Uz(min.)"; Value = "17.1V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Zener voltage"; Value = "18V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=+3.3 Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=VCC Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=+3.3 Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VCC Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=VCC Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C16-2
+Added Pin To Net: NetName=+5 Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=+5 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=+3.3 Pin=C?_U_SensorADC1-1
+Added Pin To Net: NetName=GND Pin=C?_U_SensorADC1-2
+Added Pin To Net: NetName=+3.3 Pin=C?_U_SensorADC2-1
+Added Pin To Net: NetName=GND Pin=C?_U_SensorADC2-2
+Added Pin To Net: NetName=+3.3 Pin=C?_U_SensorADC3-1
+Added Pin To Net: NetName=GND Pin=C?_U_SensorADC3-2
+Added Pin To Net: NetName=+3.3 Pin=C?_U_SensorADC4-1
+Added Pin To Net: NetName=GND Pin=C?_U_SensorADC4-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Added Pin To Net: NetName=VCC Pin=napajalnik1-2
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-3
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=+3.3 Pin=R2-1
+Added Pin To Net: NetName=VCC Pin=R3-1
+Added Pin To Net: NetName=VCC Pin=U2-3
+Added Pin To Net: NetName=+3.3 Pin=U2-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U3-17
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Pin To Net: Unknown Pin: Pin U3-26
+Add Pin To Net: Unknown Pin: Pin U3-27
+Add Pin To Net: Unknown Pin: Pin U3-28
+Added Pin To Net: NetName=VCC Pin=VR1-1
+Added Pin To Net: NetName=+5 Pin=VR1-3
+Added Pin To Net: NetName=GND Pin=VR1-4
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Pin To Net: NetName=GND Pin=zenner1-1
+Added Pin To Net: NetName=Netnapajalnik1_1 Pin=napajalnik1-1
+Added Net: Name=Netnapajalnik1_1
+Added Pin To Net: NetName=NetQ1_1 Pin=R3-2
+Added Pin To Net: NetName=NetQ1_1 Pin=zenner1-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Pin To Net: NetName=NetR1_1 Pin=U2-1
+Added Net: Name=NetR1_1
+Added Class: Name=U_napajalnik3.3
+Added Member To Class: ClassName=U_SensorADC1 Member=Component C?_U_SensorADC1 (C?) 1uF
+Added Member To Class: ClassName=U_SensorADC2 Member=Component C?_U_SensorADC2 (C?) 1uF
+Added Member To Class: ClassName=U_SensorADC3 Member=Component C?_U_SensorADC3 (C?) 1uF
+Added Member To Class: ClassName=U_SensorADC4 Member=Component C?_U_SensorADC4 (C?) 1uF
+Add Class Member: Failed to add class member : Component D2 Amber, 2V, 140°
+Add Class Member: Failed to add class member : Component Q2_U_rele1 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele2 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele3 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele4 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele5 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele6 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele7 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele8 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele9 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele10 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele11 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component U3 ATMEGA328*P
+Add Class Member: Failed to add class member : Component X1 XTAL
