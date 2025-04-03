@@ -1,0 +1,191 @@
+Removed Pin From Net: NetName=GND Pin=C25-1
+Removed Pin From Net: NetName=MCU OSC IN Pin=C25-2
+Removed Pin From Net: NetName=GND Pin=C26-1
+Removed Pin From Net: NetName=XTAL IN Pin=C26-2
+Removed Pin From Net: NetName=GND Pin=C27-1
+Removed Pin From Net: NetName=+3V3 Pin=C27-2
+Removed Pin From Net: NetName=GND Pin=C28-1
+Removed Pin From Net: NetName=+3V3 Pin=C28-2
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=+3V3 Pin=C29-2
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=+3V3 Pin=C30-2
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=+3V3 Pin=C31-2
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=+3V3 Pin=C32-2
+Removed Pin From Net: NetName=+3V3 Pin=R11-2
+Removed Pin From Net: NetName=+3V3 Pin=U5-1
+Removed Pin From Net: NetName=+3V3 Pin=U5-16
+Removed Pin From Net: NetName=+3V3 Pin=U5-28
+Removed Pin From Net: NetName=+3V3 Pin=U5-29
+Removed Pin From Net: NetName=+3V3 Pin=U5-32
+Removed Pin From Net: NetName=+3V3 Pin=U5-48
+Removed Pin From Net: NetName=+3V3 Pin=U5-64
+Change Component Footprint: Designator=C25 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Component Footprint: Designator=C26 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Component Footprint: Designator=C27 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Component Footprint: Designator=C28 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Component Footprint: Designator=C29 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Component Footprint: Designator=C30 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Component Footprint: Designator=C31 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Component Footprint: Designator=C32 Old Footprint=FP-GRM15-MFG New Footprint=C0603
+Change Managed Component Library Link : Designator=C25 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change Managed Component Library Link : Designator=C26 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change Managed Component Library Link : Designator=C27 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change Managed Component Library Link : Designator=C28 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change Managed Component Library Link : Designator=C29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change Managed Component Library Link : Designator=C30 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change Managed Component Library Link : Designator=C31 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change Managed Component Library Link : Designator=C32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=388B580D-3E2B-4C40-82C1-AF26D2AEE14B New ItemGUID= Old RevisionGUID=94EC833E-789A-4A38-8035-9CFDBEAC3EC3 New RevisionGUID=
+Change component parameters: Designator = "C25" ("C25"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\GUHNFXFR" ("\GOHSHSOM\GUHNFXFR")
+Change component parameters (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C26" ("C26"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\CZFMZCBW" ("\GOHSHSOM\CZFMZCBW")
+Change component parameters (AddParameter): Name = "Value"; Value = "10p"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C27" ("C27"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\DXXXDJEV" ("\GOHSHSOM\DXXXDJEV")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\OFKCAIMN" ("\GOHSHSOM\OFKCAIMN")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\FKQMHLZY" ("\GOHSHSOM\FKQMHLZY")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\SIGLWFLB" ("\GOHSHSOM\SIGLWFLB")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\VOUTATCI" ("\GOHSHSOM\VOUTATCI")
+Change component parameters (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "FP-GRM15-MFG"; UniqueID = "\GOHSHSOM\OMJBGYVF" ("\GOHSHSOM\OMJBGYVF")
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2u"; VariantName = "[No Variations]"
+Added Component: Designator=C15(C0805)
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found WL-SMCW_0603_150060xx75000
+Add Component: Footprint Not Found TC2030-IDC-NL
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found DIL28-3
+Add Component: Footprint Not Found XTAL
+Added Pin To Net: NetName=VCC Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=MCU OSC IN Pin=C25-1
+Added Pin To Net: NetName=GND Pin=C25-2
+Added Pin To Net: NetName=XTAL IN Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=+3.3 Pin=C27-1
+Added Pin To Net: NetName=GND Pin=C27-2
+Added Pin To Net: NetName=+3.3 Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=+3.3 Pin=C29-1
+Added Pin To Net: NetName=GND Pin=C29-2
+Added Pin To Net: NetName=+3.3 Pin=C30-1
+Added Pin To Net: NetName=GND Pin=C30-2
+Added Pin To Net: NetName=+3.3 Pin=C31-1
+Added Pin To Net: NetName=GND Pin=C31-2
+Added Pin To Net: NetName=+3.3 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Add Pin To Net: Unknown Pin: Pin J1-3
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-3
+Added Pin To Net: NetName=+3.3 Pin=R11-2
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U3-17
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Pin To Net: Unknown Pin: Pin U3-26
+Add Pin To Net: Unknown Pin: Pin U3-27
+Add Pin To Net: Unknown Pin: Pin U3-28
+Added Pin To Net: NetName=+3.3 Pin=U5-1
+Added Pin To Net: NetName=+3.3 Pin=U5-16
+Added Pin To Net: NetName=+3.3 Pin=U5-28
+Added Pin To Net: NetName=+3.3 Pin=U5-29
+Added Pin To Net: NetName=+3.3 Pin=U5-32
+Added Pin To Net: NetName=+3.3 Pin=U5-48
+Added Pin To Net: NetName=+3.3 Pin=U5-64
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Member To Class: ClassName=U_napajalnik3.3 Member=Component C15 10uF
+Add Class Member: Failed to add class member : Component D2 Amber, 2V, 140°
+Add Class Member: Failed to add class member : Component J1 TC2030-CTX
+Add Class Member: Failed to add class member : Component Q1 SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele1 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele2 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele3 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele4 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele5 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele6 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele7 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele8 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele9 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele10 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele11 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component U3 ATMEGA328*P
+Add Class Member: Failed to add class member : Component X1 XTAL
