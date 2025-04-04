@@ -1,0 +1,182 @@
+Removed Pin From Net: NetName=+3V3 Pin=AS1_U_SensorADC1-3
+Removed Pin From Net: NetName=+3V3 Pin=AS1_U_SensorADC2-3
+Removed Pin From Net: NetName=+3V3 Pin=AS1_U_SensorADC3-3
+Removed Pin From Net: NetName=+3V3 Pin=AS1_U_SensorADC4-3
+Removed Pin From Net: NetName=+3V3 Pin=C2-1
+Removed Pin From Net: NetName=+3V3 Pin=C4-1
+Removed Pin From Net: NetName=+5 Pin=C19-1
+Removed Pin From Net: NetName=+3V3 Pin=C21_U_SensorADC1-1
+Removed Pin From Net: NetName=+3V3 Pin=C21_U_SensorADC2-1
+Removed Pin From Net: NetName=+3V3 Pin=C21_U_SensorADC3-1
+Removed Pin From Net: NetName=+3V3 Pin=C21_U_SensorADC4-1
+Removed Pin From Net: NetName=+3V3 Pin=C22-2
+Removed Pin From Net: NetName=GND Pin=C30-2
+Removed Pin From Net: NetName=+3V3 Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C31-2
+Removed Pin From Net: NetName=+3V3 Pin=C32-1
+Removed Pin From Net: NetName=GND Pin=C32-2
+Removed Pin From Net: NetName=+3V3 Pin=R2-1
+Removed Pin From Net: NetName=MCU OSC OUT Pin=R9-2
+Removed Pin From Net: NetName=+3V3 Pin=Stlink-1
+Removed Pin From Net: NetName=MCU_SYS_JTSM_SWDIO Pin=Stlink-2
+Removed Pin From Net: NetName=MCU_JTICK_SWSCLK Pin=Stlink-3
+Removed Pin From Net: NetName=GND Pin=Stlink-4
+Removed Pin From Net: NetName=+3V3 Pin=U2-4
+Removed Pin From Net: NetName=+5 Pin=U4-3
+Removed Member From Class: ClassName=U_stmschematic Member=C19
+Removed Member From Class: ClassName=U_stmschematic Member=C20
+Removed Member From Class: ClassName=U_stmschematic Member=C31
+Removed Member From Class: ClassName=U_stmschematic Member=C32
+Removed Member From Class: ClassName=U_stmschematic Member=CAN1
+Removed Member From Class: ClassName=U_stmschematic Member=R6
+Removed Member From Class: ClassName=U_stmschematic Member=U4
+Change Component Footprint: Designator=C22 Old Footprint=C0805 New Footprint=C0603
+Change Component Footprint: Designator=R9 Old Footprint=R0603 New Footprint=R0805
+Change Component Comment : Designator=R9 Old Comment=0 New Comment=10R
+Change Component Comment : Designator=C30 Old Comment=100n New Comment=4.7u
+Change component parameters: Designator = "C30" ("C30"); Footprint = "C0603"; UniqueID = "\GOHSHSOM\CBNARPAE" ("\GOHSHSOM\CBNARPAE")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R9" ("R9"); Footprint = "R0603"; UniqueID = "\GOHSHSOM\AWKJAONS" ("\GOHSHSOM\AWKJAONS")
+Change component parameters (AddParameter): Name = "Value"; Value = "10R"; VariantName = "[No Variations]"
+Added Component: Designator=C24(C0603)
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found WL-SMCW_0603_150060xx75000
+Added Component: Designator=P1(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found DIL28-3
+Add Component: Footprint Not Found XTAL
+Added Pin To Net: NetName=+3V3 Pin=C24-1
+Added Pin To Net: NetName=GND Pin=C24-2
+Added Pin To Net: NetName=MCU OSC OUT Pin=C26-1
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Added Pin To Net: NetName=+3V3 Pin=P1-1
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-3
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=MCU_JTICK_SWSCLK Pin=Stlink-2
+Added Pin To Net: NetName=GND Pin=Stlink-3
+Added Pin To Net: NetName=MCU_SYS_JTSM_SWDIO Pin=Stlink-4
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U3-17
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Pin To Net: Unknown Pin: Pin U3-26
+Add Pin To Net: Unknown Pin: Pin U3-27
+Add Pin To Net: Unknown Pin: Pin U3-28
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Added Pin To Net: NetName=MCU OSC OUT Pin=X2-3
+Change Net Name : Old Net Name=+3V3 New Net Name=+3V3_ST
+Change Net Name : Old Net Name=MCU_NRST New Net Name=NetC23_2
+Added Pin To Net: NetName=+3V3 Pin=AS1_U_SensorADC1-3
+Added Pin To Net: NetName=+3V3 Pin=AS1_U_SensorADC2-3
+Added Pin To Net: NetName=+3V3 Pin=AS1_U_SensorADC3-3
+Added Pin To Net: NetName=+3V3 Pin=AS1_U_SensorADC4-3
+Added Pin To Net: NetName=+3V3 Pin=C2-1
+Added Pin To Net: NetName=+3V3 Pin=C4-1
+Added Pin To Net: NetName=+3V3 Pin=C21_U_SensorADC1-1
+Added Pin To Net: NetName=+3V3 Pin=C21_U_SensorADC2-1
+Added Pin To Net: NetName=+3V3 Pin=C21_U_SensorADC3-1
+Added Pin To Net: NetName=+3V3 Pin=C21_U_SensorADC4-1
+Added Pin To Net: NetName=+3V3 Pin=C22-2
+Added Pin To Net: NetName=+3V3 Pin=P1-2
+Added Pin To Net: NetName=+3V3 Pin=R2-1
+Added Pin To Net: NetName=+3V3 Pin=Stlink-1
+Added Pin To Net: NetName=+3V3 Pin=U2-4
+Added Net: Name=+3V3
+Added Pin To Net: NetName=NetC19_1 Pin=C19-1
+Added Pin To Net: NetName=NetC19_1 Pin=U4-3
+Added Net: Name=NetC19_1
+Added Pin To Net: NetName=NetC30_2 Pin=C30-2
+Added Pin To Net: NetName=NetC30_2 Pin=R9-1
+Added Net: Name=NetC30_2
+Added Pin To Net: NetName=NetU5_46 Pin=U5-46
+Added Net: Name=NetU5_46
+Added Class: Name=U_CAN
+Added Member To Class: ClassName=U_stmschematic Member=Component C24 100n
+Add Class Member: Failed to add class member : Component D2 Amber, 2V, 140°
+Added Member To Class: ClassName=U_stmschematic Member=Component P1 Header 3
+Add Class Member: Failed to add class member : Component Q1 SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele1 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele2 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele3 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele4 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele5 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele6 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele7 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele8 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele9 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele10 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele11 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component U3 ATMEGA328*P
+Add Class Member: Failed to add class member : Component X1 XTAL
