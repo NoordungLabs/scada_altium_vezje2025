@@ -1,0 +1,98 @@
+Add Component: Footprint Not Found WL-SMCW_0603_150060xx75000
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found SOT23
+Add Component: Footprint Not Found DIL28-3
+Add Component: Footprint Not Found XTAL
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin Q1-1
+Add Pin To Net: Unknown Pin: Pin Q1-2
+Add Pin To Net: Unknown Pin: Pin Q1-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele1-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele2-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele3-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele4-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele5-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele6-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele7-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele8-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele9-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele10-3
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-1
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-2
+Add Pin To Net: Unknown Pin: Pin Q2_U_rele11-3
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin U3-6
+Add Pin To Net: Unknown Pin: Pin U3-7
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Add Pin To Net: Unknown Pin: Pin U3-10
+Add Pin To Net: Unknown Pin: Pin U3-11
+Add Pin To Net: Unknown Pin: Pin U3-12
+Add Pin To Net: Unknown Pin: Pin U3-13
+Add Pin To Net: Unknown Pin: Pin U3-14
+Add Pin To Net: Unknown Pin: Pin U3-15
+Add Pin To Net: Unknown Pin: Pin U3-16
+Add Pin To Net: Unknown Pin: Pin U3-17
+Add Pin To Net: Unknown Pin: Pin U3-18
+Add Pin To Net: Unknown Pin: Pin U3-19
+Add Pin To Net: Unknown Pin: Pin U3-20
+Add Pin To Net: Unknown Pin: Pin U3-21
+Add Pin To Net: Unknown Pin: Pin U3-22
+Add Pin To Net: Unknown Pin: Pin U3-23
+Add Pin To Net: Unknown Pin: Pin U3-24
+Add Pin To Net: Unknown Pin: Pin U3-25
+Add Pin To Net: Unknown Pin: Pin U3-26
+Add Pin To Net: Unknown Pin: Pin U3-27
+Add Pin To Net: Unknown Pin: Pin U3-28
+Add Pin To Net: Unknown Pin: Pin X1-1
+Add Pin To Net: Unknown Pin: Pin X1-2
+Add Class Member: Failed to add class member : Component D2 Amber, 2V, 140°
+Add Class Member: Failed to add class member : Component Q1 SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele1 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele2 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele3 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele4 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele5 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele6 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele7 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele8 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele9 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele10 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component Q2_U_rele11 (Q2) SI2323DS-T1-GE3
+Add Class Member: Failed to add class member : Component U3 ATMEGA328*P
+Add Class Member: Failed to add class member : Component X1 XTAL
